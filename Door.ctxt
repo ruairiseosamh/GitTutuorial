@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=myDoor\ quantity
+comment1.target=Door(java.lang.String,\ int)
+numComments=2
